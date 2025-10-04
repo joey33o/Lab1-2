@@ -1,0 +1,29 @@
+body {
+  background-color: lightcyan;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-indent: 10px;
+}
+
+table {
+  width: 500px;
+  margin-left: 355px;
+}
+td {
+  background-color: lightskyblue;
+  border: dotted;
+
+  padding-left: 10px;
+}
+tr {
+  text-align: center;
+}
+#person {
+  text-align: center;
+}
+div {
+  background-color: lightblue;
+  border: dashed;
+  border-color: darkblue;
+  border-width: 3px;
+  margin-bottom: 10px;
+}
